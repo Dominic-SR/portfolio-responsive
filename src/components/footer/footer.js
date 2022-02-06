@@ -7,7 +7,7 @@ function footer() {
 
         <div className="footer_socials">
           <a
-            href="https://www.linkedin.com/in/jagadeesan-p-5a78ab188/"
+            href="https://www.linkedin.com/in/dominicseduraja/"
             target="_blank"
             className="footer_icon"
             data-aos="fade-down"
@@ -17,7 +17,7 @@ function footer() {
           </a>
           
           <a
-            href="https://wa.me/916381281493"
+            href="https://wa.me/919042831738"
             target="_blank"
             className="footer_icon"
             data-aos="fade-down"
@@ -26,14 +26,14 @@ function footer() {
             <i className='bx bxl-whatsapp' ></i>
           </a>
           <a
-            href="https://github.com/Jagadeesan20"
+            href="https://github.com/Dominic-SR"
             target="_blank"
             className="footer_icon"
             data-aos="fade-down"
             data-aos-delay="550"
             ><i className="bx bxl-github"> </i></a>
           <a
-            href="mailto:p.jagadish07112002@gmail.com"
+            href="mailto:dominicseduraja3@gmail.com"
             target="_blank"
             className="footer_icon"
             data-aos="fade-down"

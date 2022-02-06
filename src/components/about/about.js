@@ -2,7 +2,7 @@ import React from 'react';
 
 function about() {
   return <div><section className="about section" id="about">
-  <h2 className="section-title" data-aos="fade-down" style="color:#45a98f">About</h2>
+  <h2 className="section-title" data-aos="fade-down" style={{color:"#45a98f"}}>About</h2>
 
   <div className="about_container bd_grid">
     <div className="about_img" >
@@ -15,10 +15,10 @@ function about() {
         data-aos="fade-down"
         data-aos-delay="350"
       >
-        I'm Jagadeesan
+        I'm Dominic
       </h2>
       <p className="about_text" data-aos="fade-down" data-aos-delay="450">
-        I'm a software Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+        I'm a software Engineer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
       </p>
     </div>
   </div>
