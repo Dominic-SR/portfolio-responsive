@@ -31,7 +31,7 @@ function home() {
             <i className="bx bxl-whatsapp" style={{color:"aqua"},{fontSize:"50px"}}></i>
           </a>
           <a
-            href="https://github.com/Jagadeesan20"
+            href="https://github.com/Dominic-SR"
             target="_blank"
             className="home_social-icon"
             data-aos="fade-down"
